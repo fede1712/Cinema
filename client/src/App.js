@@ -1,7 +1,7 @@
 import React from 'react'
 
 import { NavBar } from './Layout/NavBar/NavBar';
-import { PublicRoutes } from './Layout/Routes/Index';
+import { PublicRoutes } from './Layout/Routes/PublicRoutes';
 
 function App() {
   return (
